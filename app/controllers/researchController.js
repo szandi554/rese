@@ -1,5 +1,5 @@
 /*
-* File: index.js
+* File: researchController.js
 * Author: Siegenthaler Alexandra 
 * Copyright: 2025, Siegenthaler Alexandra 
 * Group: Szoft II/2/E
